@@ -53,7 +53,7 @@ ul > li {
     padding-top: 30px;
     width: 100%;
     height: 600px;
-    background: url("../img/Microsoft-Bing-new-1068x604.webp") no-repeat center center/cover;
+    background: url("Microsoft-Bing-new-1068x604.webp") no-repeat center center/cover;
 }
 .article {
     border: outset;
@@ -148,7 +148,7 @@ ul > li {
     color: #2e4386;
 }
 .showcase {
-    background: url("../img/gldn-Soft-CP-OneDriveCampaignRefresh-2.webp") no-repeat center/cover;
+    background: url("gldn-Soft-CP-OneDriveCampaignRefresh-2.webp") no-repeat center/cover;
     padding-top: 30px;
     width: 97%;
     margin-left: 10px;
@@ -224,36 +224,12 @@ footer {
     padding: 10px;
 }
 @media only screen and (min-width: 1370px) and (max-width: 1605px) {
-    .text-area {
-        display: flex;
-        justify-content: flex-start;
-        margin: 30px auto;
-        max-width: 36%;
-        padding: 10px 15px;
-        border: 1px solid black;
-        border-radius: 10px;
-        background: white;
-    }
     .container {
         width: 90%;
         max-width: 3100px;
         margin: auto;
-    }
-    .fa-microphone {
-        margin-right: 10px;
-    }
 }
 @media only screen and (min-width: 1610px) and (max-width: 2750px) {
-    .text-area {
-        display: flex;
-        justify-content: flex-start;
-        margin: 30px auto;
-        max-width: 20%;
-        padding: 10px 15px;
-        border: 1px solid black;
-        border-radius: 10px;
-        background: white;
-    }
     .container {
         width: 90%;
         max-width: 3100px;
