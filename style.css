@@ -349,7 +349,7 @@ footer {
     justify-content: flex-end;
 }
 
-@media only screen and (min-width: 1370px) and (max-width: 1605px) {
+@media only screen and (min-width: 1281px) {
     .container {
         width: 90%;
         max-width: 3100px;
@@ -384,7 +384,7 @@ footer {
         line-height: 3rem;
     }
 }
-@media only screen and (min-width: 1010px) and (max-width: 2750px) {
+@media only screen and (min-width: 1025px) and (max-width: 1280px) {
     .container {
         width: 90%;
         max-width: 3100px;
@@ -394,7 +394,7 @@ footer {
         display: none;
     }
 }
-@media only screen and (min-width: 320px) and (max-width: 620px) {
+@media only screen and (min-width: 320px) and (max-width: 767px) {
     .container, .part-1, .img-card-1, .part-2, .part-3 {
         display: none;
     }
@@ -455,7 +455,7 @@ footer {
         text-decoration: underline;
     }
 }
-@media only screen and (min-width: 750px) and (max-width:1000px) {
+@media only screen and (min-width: 768px) and (max-width:1024px) {
     .container, .part-1, .img-card-1, .part-2, .part-3  {
         display: none;
     }
