@@ -233,6 +233,9 @@ footer {
 .end li {
     padding: 10px;
 }
+.mobile img {
+    width: 95%
+}   
 .mobile-article {
     margin: 20px 0;
     padding: 10px;
