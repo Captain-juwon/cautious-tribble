@@ -455,7 +455,7 @@ footer {
         text-decoration: underline;
     }
 }
-@media only screen and (min-width: 750px) and (max-width: 900px) {
+@media only screen and (min-width: 750px) and (max-width:1000px) {
     .container, .part-1, .img-card-1, .part-2, .part-3  {
         display: none;
     }
