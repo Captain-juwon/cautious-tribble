@@ -126,6 +126,15 @@ ul > li {
 .img-card-1 p {
     margin-bottom: 20px;
 }
+.img-card-1 p:first-of-type {
+    padding: 3px;
+    margin-top: 5px;
+    line-height: 1.2;
+    margin-bottom: 0;
+    padding-left: 10px;
+    font-size: 21px;
+    font-weight: 500;
+}
 .img-card-1 img {
     width: 100%;
     margin-top: 20px;
@@ -149,6 +158,15 @@ ul > li {
 }
 .img-card-2 p {
     margin-bottom: 20px;
+}
+.img-card-2 p:first-of-type {
+    padding: 3px;
+    margin-top: 5px;
+    line-height: 1.2;
+    margin-bottom: 0;
+    padding-left: 10px;
+    font-size: 21px;
+    font-weight: 500;
 }
 .img-card-2 img {
     width: 100%;
@@ -400,13 +418,6 @@ footer {
     .nav-mobile ul li, .nav-mobile div li {
         list-style: none;
     }
-    .join {
-        display: inline-flex;
-    }
-    .join i {
-        padding-right: 10px;
-        padding-left: 20px;
-    }
     .fa-search {
         padding-left: 30px;
     }
@@ -469,13 +480,6 @@ footer {
     }
     .nav-mobile ul li, .nav-mobile div li {
         list-style: none;
-    }
-    .join {
-        display: inline-flex;
-    }
-    .join i {
-        padding-right: 10px;
-        padding-left: 20px;
     }
     .mobile img {
         width: 100%;
